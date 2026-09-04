@@ -7,3 +7,5 @@ do
 done
 
 echo 'Modified in feature branch'
+
+echo 'Change from feature-from-develop'
